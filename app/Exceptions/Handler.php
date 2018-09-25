@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace CRUD_practica\Exceptions;
 
 use Exception;
 use Illuminate\Auth\AuthenticationException;
